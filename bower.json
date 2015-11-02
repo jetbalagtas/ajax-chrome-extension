@@ -1,0 +1,30 @@
+{
+  "name": "ajax-chrome-extension",
+  "authors": [
+    "Jet Balagtas <jetbalagtas@gmail.com>"
+  ],
+  "description": "exercise in ajax json manipulation and chrome extension",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "ajax",
+    "json",
+    "chrome",
+    "extension"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "underscore": "~1.8.3",
+    "normalize-css": "normalize.css#~3.0.3"
+  }
+}

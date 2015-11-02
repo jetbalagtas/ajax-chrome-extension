@@ -1,0 +1,21 @@
+body {
+  width: 400px;
+  padding: 20px;
+  background-color: #505050;
+}
+
+border {
+  display: none;
+}
+
+a {
+  color: #ffffff;
+  &:hover {
+    color: orange;
+  }
+}
+
+h2 {
+  color: orange;
+  text-align: center;
+}
